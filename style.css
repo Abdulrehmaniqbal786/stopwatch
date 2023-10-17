@@ -1,0 +1,35 @@
+body{
+background-image: url('https://img.freepik.com/premium-vector/technology-background-with-digital-number-timer-concept-countdown_115579-957.jpg ');
+background-size:cover;
+align-items:center;
+justify-content: center; 
+ background-position: content;
+background-repeat: no-repeat;
+padding-left:200px ;
+text-align: center;
+
+}
+body{
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color:whitesmoke ;
+
+    margin-bottom: 0%;
+    margin-right: 0%;
+    margin-left: 0%;
+
+    
+    
+
+}
+button{
+    background-color: rgb(17, 27, 45);
+    box-shadow: 20px;
+    color: azure;
+    border: 2px solid wheat;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
